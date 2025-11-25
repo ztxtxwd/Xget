@@ -133,6 +133,8 @@
  * }
  */
 export const PLATFORMS = {
+	ar: 'https://anyrouter.top',
+	
   // Code Repositories & Version Control
   gh: 'https://github.com',
   gist: 'https://gist.github.com',
