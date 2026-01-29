@@ -133,7 +133,7 @@
  * }
  */
 export const PLATFORMS = {
-	ar: 'https://anyrouter.top',
+  ar: 'https://a-ocnfniawgw.cn-shanghai.fcapp.run',
 	
   // Code Repositories & Version Control
   gh: 'https://github.com',
